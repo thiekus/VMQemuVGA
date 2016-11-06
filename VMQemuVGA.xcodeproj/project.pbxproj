@@ -212,7 +212,7 @@
 			baseConfigurationReference = E52B43CA10B5B37F002470B4 /* Generic.xcconfig */;
 			buildSettings = {
 				ARCHS = i386;
-				COPYRIGHT_NOTICE = "Copyright 2009-2011 Zenith432 2012 rafirafi";
+				COPYRIGHT_NOTICE = "Copyright 2009-2011 Zenith432 2012 rafirafi 2016 ivanagui2";
 				CURRENT_PROJECT_VERSION = 1.2.5d3;
 				DYLIB_COMPATIBILITY_VERSION = 1.2.5d3;
 				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
