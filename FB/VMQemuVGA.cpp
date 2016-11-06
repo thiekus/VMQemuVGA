@@ -274,7 +274,7 @@ IOReturn CLASS::CustomMode(CustomModeData const* inData, CustomModeData* outData
 {
 	DisplayModeEntry const* dme1;
 	unsigned w, h;
-	AbsoluteTime deadline;
+	uint64_t deadline;
 	
 	if (!m_restore_call)
 	{
